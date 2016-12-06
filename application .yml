@@ -3,5 +3,3 @@
 
 spring:
   profiles: cool
-server:
-  port:6666
