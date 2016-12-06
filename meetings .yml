@@ -1,4 +1,5 @@
 # ymltest
 
 
-message: good
+spring:
+  profiles: cool
