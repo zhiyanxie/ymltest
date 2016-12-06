@@ -2,6 +2,10 @@
 
 
 spring:
-  profiles: cool
+  application:
+    name: meetings
+  profiles:
+    active: native
+    
 server:
-  port : 4545
+  port:7777
