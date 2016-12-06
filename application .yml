@@ -3,3 +3,5 @@
 
 spring:
   profiles: cool
+server:
+  port : 4545
