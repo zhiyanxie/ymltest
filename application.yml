@@ -1,0 +1,12 @@
+
+# ymltest
+
+
+spring:
+  application:
+    name: meetings
+  profiles:
+    active: native
+    
+server:
+  port:7777
